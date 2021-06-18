@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Gralhix
-- 👀 I’m interested in Python for data analysis and simulations
+- 👋 Hi, I’m @Gralhix aka Sofia
+- 👀 I’m interested data analysis and simulations
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on small python projects, English-PT(PT) translations on open source, educational content
 - 📫 Free feel to e-mail me on gralhix@gmail.com
