@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gralhix
-- 👀 I’m interested in data analysis and simulations
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in python & bash scripting
+- 🌱 I’m currently learning Python @ bash
 - 💞️ I’m looking to collaborate on small python projects, English-PT(PT) translations on open source, educational content
-- 📫 Free feel to e-mail me on gralhix@gmail.com
+- 📫 Free feel to message me
 
 <!---
 Gralhix/Gralhix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
